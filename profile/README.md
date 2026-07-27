@@ -58,4 +58,5 @@ repository rather than opening a public issue. For Swarm 357, start at
 
 ## Contact
 
-Alex Cinovoj — [techtideai.io](https://techtideai.io)
+Alex Cinovoj — [techtideai.io](https://techtideai.io) ·
+[LinkedIn](https://www.linkedin.com/company/techtide-ai/)
