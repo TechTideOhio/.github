@@ -1,62 +1,48 @@
 # TechTide AI
 
-We build agent infrastructure that survives contact with production: cost caps that
-actually stop spending, approval gates on anything destructive, and checkpoints you
-can resume from when a run dies at 3am.
+> **Production-ready agent infrastructure and applied digital products, built in Columbus, Ohio.**
 
-Based in Ohio. Most of what we ship is Apache-2.0.
+TechTide AI builds practical systems for dependable AI-assisted work: explicit spending controls, human approval gates for privileged operations, durable execution state, and verifiable engineering practices.
 
-## Swarm 357
+## Start Here
 
-[**Site**](https://swarm357.techtideai.io) ·
-[**Docs**](https://swarm357.techtideai.io/docs) ·
-[**Blog**](https://swarm357.techtideai.io/blog) ·
-[**PyPI**](https://pypi.org/project/techtide-swarm/) ·
-[**Runtime repo**](https://github.com/TechTideOhio/swarm-357) ·
-[**Site repo**](https://github.com/TechTideOhio/swarm-357-site)
+| Project | What it provides | Explore |
+|---|---|---|
+| **Swarm 357** | A Python multi-agent orchestration runtime with budget controls, policy-gated shell access, durable approvals, portable memory, and resumable runs. | [Site](https://swarm357.techtideai.io) · [Docs](https://swarm357.techtideai.io/docs) · [PyPI](https://pypi.org/project/techtide-swarm/) · [Repository](https://github.com/TechTideOhio/swarm-357) |
+| **TechTide Harness Kit** | Trust contracts for AI-agent skills, including risk tiers, tool permissions, deny-by-default egress, prompt-injection fixtures, and CI validation gates. | [Repository](https://github.com/TechTideOhio/techtide-harness-kit) |
 
-A Python multi-agent orchestration framework for Claude agents. 357 agent roles across
-six business layers — sales, support, marketing, SEO, research, operations — plus ten
-management meta-agents that coordinate them.
+## Selected Work
 
-The catalog is an organizational ontology, not 357 concurrent model sessions. You
-compose the roles you need. What the runtime gives you underneath:
+### Agent Infrastructure
 
-| | |
+| Repository | Focus |
 |---|---|
-| **Cost control** | Per-layer USD budgets, logged downgrade to a cheaper model at 80 percent of cap |
-| **Bash policy gate** | 13-pattern validation, denied by default in server and production |
-| **Human approval** | Durable approval records for privileged operations, resolvable out of band |
-| **Portable memory** | Flat-file topics plus optional single-file Memvid `.mv2` archives |
-| **Durable runs** | Checkpoint, inspect, resume, cancel, replay, and fork any execution |
+| [swarm-357](https://github.com/TechTideOhio/swarm-357) | A composable catalog of agent roles and a Python runtime for controlled multi-agent execution. |
+| [swarm-357-site](https://github.com/TechTideOhio/swarm-357-site) | The Swarm 357 product site, documentation library, and engineering blog. |
+| [techtide-harness-kit](https://github.com/TechTideOhio/techtide-harness-kit) | Security and trust controls for AI-agent skills. |
+| [techtide-lovable-skills](https://github.com/TechTideOhio/techtide-lovable-skills) | Consolidated Lovable skill packages derived from TechTide Harness Kit. |
 
-```bash
-pip install techtide-swarm
-swarm init && swarm demo
-```
+### Applied Digital Products
 
-Honest maturity reporting is a design goal, not a footnote. Every component is graded
-in the [maturity matrix](https://github.com/TechTideOhio/swarm-357/blob/main/STATUS.md),
-and evaluation numbers on the site are rendered from committed baselines rather than
-written by hand.
-
-## Also public
-
-| Repository | What it is |
+| Repository | Focus |
 |---|---|
-| [techtide-harness-kit](https://github.com/TechTideOhio/techtide-harness-kit) | Trust contracts for AI agent skills. JSON Schema risk tiers, tool permissions, deny-by-default egress, prompt-injection fixtures, CI validation gates. |
-| [scarlet-fiber-future-web](https://github.com/TechTideOhio/scarlet-fiber-future-web) | Marketing site for Buckeye DataCom, an Ohio fiber-optic network cabling firm. Vite, React, Supabase. |
-| [SustainableFW](https://github.com/TechTideOhio/SustainableFW) | 3D sustainable-forests site. Next.js, React Three Fiber, GSAP, Lenis. |
+| [SustainableFW](https://github.com/TechTideOhio/SustainableFW) | ForestTwin, an AI-powered carbon-asset intelligence platform with 3D forest ecosystem digital twins. |
+| [scarlet-fiber-future-web](https://github.com/TechTideOhio/scarlet-fiber-future-web) | The marketing site for Buckeye DataCom’s Ohio fiber-optic and data-infrastructure services. |
 
-Several smaller repositories package individual harness-kit skills for Lovable.
+## Engineering Principles
 
-## Security
+TechTide systems favor **explicit limits over implied safeguards**. We design with bounded cost, policy-enforced execution, durable state, and transparent maturity reporting in mind. For Swarm 357, component maturity and evaluation baselines are maintained in its [status matrix](https://github.com/TechTideOhio/swarm-357/blob/main/STATUS.md).
 
-Report vulnerabilities privately through the security policy on the relevant
-repository rather than opening a public issue. For Swarm 357, start at
-[SECURITY.md](https://github.com/TechTideOhio/swarm-357/blob/main/SECURITY.md).
+## Work With Us
 
-## Contact
+| Need | Path |
+|---|---|
+| Contribute code or documentation | [Contribution guide](../CONTRIBUTING.md) |
+| Understand community expectations | [Code of Conduct](../CODE_OF_CONDUCT.md) |
+| Report a vulnerability privately | [Security policy](../SECURITY.md) |
+| Obtain product help or contact the team | [Support and contact](../SUPPORT.md) |
+| Learn how organization-wide decisions are made | [Governance](../GOVERNANCE.md) |
 
-Alex Cinovoj — [techtideai.io](https://techtideai.io) ·
-[LinkedIn](https://www.linkedin.com/company/techtide-ai/)
+## Connect
+
+Visit [techtideai.io](https://techtideai.io) to learn more about TechTide AI, or follow the company on [LinkedIn](https://www.linkedin.com/company/techtide-ai/).
