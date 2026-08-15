@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: General support and contact
+    url: https://github.com/TechTideOhio/.github/blob/main/SUPPORT.md
+    about: Find documentation, project support, and general contact routes.
+  - name: Report a security vulnerability
+    url: https://github.com/TechTideOhio/.github/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately and do not open a public issue.
+  - name: Community standards
+    url: https://github.com/TechTideOhio/.github/blob/main/CODE_OF_CONDUCT.md
+    about: Review expected community behavior and private reporting guidance.
