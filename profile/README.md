@@ -1,8 +1,8 @@
 # TechTide AI
 
-> **Production-ready agent infrastructure and applied digital products, built in Columbus, Ohio.**
+> **AI implementation and automation agency in Columbus, Ohio, led by Alex Cinovoj, Founder & CTO.**
 
-TechTide AI builds practical systems for dependable AI-assisted work: explicit spending controls, human approval gates for privileged operations, durable execution state, and verifiable engineering practices.
+TechTide AI builds practical systems for dependable AI-assisted work: explicit spending controls, human approval gates for privileged operations, durable execution state, and verifiable engineering practices. The company is operator-led by [Alex Cinovoj](https://alexcinovoj.com), Founder & CTO, co-host of the [Automation Vibes](https://automationvibes.ai/) podcast, a Lovable Champion (an earned Discord community support volunteer role), with 9 Anthropic Academy course completions.
 
 ## Start Here
 
@@ -26,8 +26,12 @@ TechTide AI builds practical systems for dependable AI-assisted work: explicit s
 
 | Repository | Focus |
 |---|---|
-| [SustainableFW](https://github.com/TechTideOhio/SustainableFW) | ForestTwin, an AI-powered carbon-asset intelligence platform with 3D forest ecosystem digital twins. |
+| [SustainableFW](https://github.com/TechTideOhio/SustainableFW) | ForestTwin, a Next.js dashboard prototype for forest and carbon monitoring with a 3D scene, scenario controls, and mock data. |
 | [scarlet-fiber-future-web](https://github.com/TechTideOhio/scarlet-fiber-future-web) | The marketing site for Buckeye DataCom’s Ohio fiber-optic and data-infrastructure services. |
+
+## Why These Repositories Exist
+
+Each public repository answers a question its own README states. [swarm-357](https://github.com/TechTideOhio/swarm-357) exists because agent demos break once real money and real filesystems are involved, so it enforces budgets, gates shell access, and checkpoints runs. [swarm-357-site](https://github.com/TechTideOhio/swarm-357-site) exists so the runtime and its documentation release on independent trains and the demo write key never reaches a browser. [techtide-harness-kit](https://github.com/TechTideOhio/techtide-harness-kit) exists because skills for coding agents need tool scoping, safety checklists, and schema contracts enforced in CI rather than an awesome-list. [techtide-lovable-skills](https://github.com/TechTideOhio/techtide-lovable-skills) packages that approach for Lovable, v0, and Replit handoffs one skill at a time. [SustainableFW](https://github.com/TechTideOhio/SustainableFW) is a mock-data dashboard prototype that shows what a forest-carbon monitoring interface could look like before any real data pipeline exists. [scarlet-fiber-future-web](https://github.com/TechTideOhio/scarlet-fiber-future-web) is a client marketing site for Buckeye DataCom's Ohio fiber-optic services. None of them claim more than their code supports; feature maturity and known gaps are recorded in each repository.
 
 ## Engineering Principles
 
