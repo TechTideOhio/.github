@@ -4,7 +4,7 @@
 
 | Need | Best route |
 |---|---|
-| Install, configure, or use a project | Start with the README and documentation in the affected repository. For Swarm 357, use the [documentation site](https://swarm357.techtideai.io/docs). |
+| Install, configure, or use a project | Start with the README and documentation in the affected repository. For Swarm 357, use the [repository documentation](https://github.com/TechTideOhio/swarm-357/tree/main/docs). |
 | Report a reproducible bug | Open an issue in the affected repository using its bug-report form or template. |
 | Propose an improvement or feature | Open an issue in the affected repository using its feature-request form or template. |
 | Contribute a fix or documentation | Read [CONTRIBUTING.md](CONTRIBUTING.md) and the repository’s own contributor instructions. |
