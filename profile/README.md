@@ -10,7 +10,7 @@ I'm Alex Cinovoj, Founder & CTO of TechTide AI. I review what already exists, ag
 
 - **CPG Playbook**: my work as CTO & Co-Founder.
 - **[ShipReady](https://shipreadyai.dev)**: a launch-check tool for AI-built apps.
-- **[mpxa.com](https://mpxa.com)**: a 3D asset studio.
+- **[npx8.com](https://npx8.com)**: a 3D asset studio.
 - **[Abodra](https://abodra.ai)**: building-design software.
 - **[CipherClaw](https://github.com/Alexi5000/CipherClaw)**: an open-source toolkit for investigating multi-agent runs.
 
