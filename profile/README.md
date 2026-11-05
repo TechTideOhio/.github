@@ -1,18 +1,20 @@
 # TechTide AI
 
-I help founders turn stalled product builds into software ready for a real customer, pilot, or launch.
+TechTide AI is an AI software and automation agency based in Columbus, Ohio. We specialize in helping small and medium businesses and early-stage startups get their tools, autonomous agents, and software to production.
 
-I'm Alex Cinovoj, Founder & CTO of TechTide AI. I review what already exists, agree the scope with you, implement the work, test the core user journey, and document the handoff.
+We help founders turn stalled product builds into reliable software ready for real customers, enterprise pilots, or public launch.
+
+Founded by [Alex Cinovoj](https://alexcinovoj.com) (Founder & CTO). We review what already exists, agree on scope, implement the engineering, test the core user journey with deterministic verification, and document the production handoff.
 
 **[Send the project brief](https://techtideai.io/contact)**
 
 ## Selected work
 
-- **CPG Playbook**: my work as CTO & Co-Founder.
-- **[ShipReady](https://shipreadyai.dev)**: a launch-check tool for AI-built apps.
-- **[npx8.com](https://npx8.com)**: a 3D asset studio.
-- **[Abodra](https://abodra.ai)**: building-design software.
-- **[CipherClaw](https://github.com/Alexi5000/CipherClaw)** ![stars](https://img.shields.io/github/stars/Alexi5000/CipherClaw?style=flat-square&label=stars&color=e3b341): an open-source toolkit for investigating multi-agent runs.
+- **CPG Playbook**: CTO & Co-Founder role.
+- **[ShipReady](https://shipreadyai.dev)**: A launch-check tool for AI-built apps.
+- **[npx8.com](https://npx8.com)**: A 3D asset studio.
+- **[Abodra](https://abodra.ai)**: Building-design software.
+- **[CipherClaw](https://github.com/Alexi5000/CipherClaw)** ![stars](https://img.shields.io/github/stars/Alexi5000/CipherClaw?style=flat-square&label=stars&color=e3b341): An open-source toolkit for investigating multi-agent runs and failure paths.
 
 Independent products and open-source work are separate from client results.
 
@@ -48,6 +50,6 @@ Independent products and open-source work are separate from client results.
 
 Each repository documents its own setup, status, and limitations.
 
-[Website](https://techtideai.io) · [Alex](https://alexcinovoj.com) · [LinkedIn](https://linkedin.com/in/alexcinovoj) · [X](https://x.com/AlexCinovoj) · [Substack](https://alexcinovoj.substack.com/) · [GitHub](https://github.com/Alexi5000)
+[Website](https://techtideai.io) · [Alex Cinovoj](https://alexcinovoj.com) · [LinkedIn](https://linkedin.com/in/alexcinovoj) · [X](https://x.com/AlexCinovoj) · [Substack](https://alexcinovoj.substack.com/) · [GitHub](https://github.com/Alexi5000)
 
 [Contributing](../CONTRIBUTING.md) · [Support](../SUPPORT.md) · [Security](../SECURITY.md) · [Code of Conduct](../CODE_OF_CONDUCT.md)
