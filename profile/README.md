@@ -18,8 +18,10 @@ Independent products and open-source work are separate from client results.
 
 ## Open source
 
-- [Swarm 357](https://github.com/TechTideOhio/swarm-357): tools for coordinating AI agents with budgets, approvals, and saved progress.
-- [TechTide Harness Kit](https://github.com/TechTideOhio/techtide-harness-kit): reusable skills and checks for AI coding agents.
+- **[Binnacle](https://github.com/TechTideOhio/binnacle)**: The Evaluator Agent — a zero-FFI, pure-Rust orchestrator for the 15-tool TideOS evaluation stack.
+  - *Core Engines*: [reval](https://github.com/TechTideOhio/reval) (error analysis), [keel](https://github.com/TechTideOhio/keel) (trajectory evals), [tide-rill](https://github.com/TechTideOhio/tide-rill) (retrieval & faithfulness), [weir](https://github.com/TechTideOhio/weir) (CI gating), and [tether](https://github.com/TechTideOhio/tether) (closed-loop failure harvesting).
+- **[Swarm 357](https://github.com/TechTideOhio/swarm-357)**: Tools for coordinating AI agents with budgets, approvals, and saved progress.
+- **[TechTide Harness Kit](https://github.com/TechTideOhio/techtide-harness-kit)**: Reusable skills, hooks, and checks for AI coding agents.
 
 Each repository documents its own setup, status, and limitations.
 
